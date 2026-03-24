@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/tmp/kavia/workspace/code-generation/unified-task-planner-243915-243929/fastapi_backend"
+}
